@@ -12,7 +12,6 @@ namespace csharp_web_dev_lsn9exceptions
         {
             // Write your code here!
         }
-
         static int CheckFileExtension(string fileName)
         {
             // Write your code here!
